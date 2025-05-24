@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="bg-[#012a22] p-4 flex items-center shadow-md">
       <img
-        src="src/assets/logo.png"
+        src="https://i.postimg.cc/1X8HsY8X/logo.png"
         alt="Logo"
         className="h-10 w-10 rounded-full mr-3"
       />
