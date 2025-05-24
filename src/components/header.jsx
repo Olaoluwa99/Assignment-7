@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="bg-[#012a22] p-4 flex items-center shadow-md">
       <img
-        src="src/assets/logo.webp"
+        src="public/logo.webp"
         alt="Logo"
         className="h-10 w-10 rounded-full mr-3"
       />
